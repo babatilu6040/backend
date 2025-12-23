@@ -1,0 +1,534 @@
+{
+  
+  "username": "qweq",
+  "accessid": "PHFRJ4O3P7YS7KZEMVQ3",
+  "tracked_product": [
+    {
+      "Name": "ASUS Gaming V16 (2025)",
+      "Product_id": "D1A7S3JXLP",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹74,565"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹76,221"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹77,066"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹78,142"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹77,155"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹75,882"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹76,529"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹74,911"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹73,204"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹72,968"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹73,495"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=ASUS%20Gaming%20V16%20(2025)"
+    },
+    {
+      "Name": "Apple iPhone 16",
+      "Product_id": "R2N8J9K4XM",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹92,358"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹91,201"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹93,156"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹94,882"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹92,996"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹90,771"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹91,365"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹92,054"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹93,422"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹92,967"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹91,852"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=Apple%20iPhone%2016"
+    },
+    {
+      "Name": "Samsung Galaxy Book 4",
+      "Product_id": "B9F6K8WQZT",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹61,779"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹62,105"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹63,889"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹65,278"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹64,115"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹63,879"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹62,775"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹61,503"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹62,228"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹63,149"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹64,011"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=Samsung%20Galaxy%20Book%204"
+    },
+    {
+      "Name": "HP Omen Ryzen 7",
+      "Product_id": "H8M4PLK9WT",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹84,279"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹85,731"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹87,425"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹88,012"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹86,541"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹84,962"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹86,315"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹85,902"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹84,487"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹83,765"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹84,142"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=HP%20Omen%20Ryzen%207"
+    },
+    {
+      "Name": "Lenovo Legion 7 Pro",
+      "Product_id": "Q6T1MV9ZEX",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹1,05,429"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹1,06,876"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹1,07,245"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹1,08,931"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹1,07,912"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹1,09,214"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹1,08,871"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹1,10,194"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹1,09,655"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹1,08,285"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹1,09,379"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=Lenovo%20Legion%207%20Pro"
+    },
+    {
+      "Name": "MSI Katana X 4060",
+      "Product_id": "Z7N9S2DFLU",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹96,413"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹97,302"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹98,241"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹99,758"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹97,982"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹96,248"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹95,711"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹94,892"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹93,456"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹92,931"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹93,254"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=MSI%20Katana%20X%204060"
+    },
+    {
+      "Name": "Infinix GT Book",
+      "Product_id": "K2X8L5WZQY",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹57,512"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹56,843"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹57,122"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹58,097"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹59,005"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹58,543"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹59,278"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹58,794"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹59,502"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹60,283"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹59,947"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=Infinix%20GT%20Book"
+    },
+    {
+      "Name": "Acer Predator Helios 16",
+      "Product_id": "T9G2F5XJRM",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹1,08,734"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹1,09,512"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹1,10,833"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹1,09,562"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹1,08,329"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹1,09,178"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹1,10,237"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹1,09,841"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹1,10,925"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹1,09,476"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹1,08,795"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=Acer%20Predator%20Helios%2016"
+    },
+    {
+      "Name": "Dell XPS 14 OLED",
+      "Product_id": "E3P7LKF4MN",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹1,19,238"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹1,18,952"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹1,20,243"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹1,21,741"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹1,20,669"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹1,21,512"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹1,20,911"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹1,19,841"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹1,20,326"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹1,19,642"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹1,20,974"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=Dell%20XPS%2014%20OLED"
+    },
+    {
+      "Name": "Nothing Phone 3 Pro",
+      "Product_id": "J8F5W9LKTA",
+      "price_history": [
+        {
+          "data": "25-10-2025",
+          "price": "₹54,123"
+        },
+        {
+          "data": "26-10-2025",
+          "price": "₹53,942"
+        },
+        {
+          "data": "27-10-2025",
+          "price": "₹54,819"
+        },
+        {
+          "data": "28-10-2025",
+          "price": "₹55,624"
+        },
+        {
+          "data": "29-10-2025",
+          "price": "₹54,952"
+        },
+        {
+          "data": "30-10-2025",
+          "price": "₹54,128"
+        },
+        {
+          "data": "31-10-2025",
+          "price": "₹54,712"
+        },
+        {
+          "data": "01-11-2025",
+          "price": "₹53,894"
+        },
+        {
+          "data": "02-11-2025",
+          "price": "₹52,998"
+        },
+        {
+          "data": "03-11-2025",
+          "price": "₹53,421"
+        },
+        {
+          "data": "04-11-2025",
+          "price": "₹54,039"
+        }
+      ],
+      "url": "https://www.flipkart.com/search?q=Nothing%20Phone%203%20Pro"
+    }
+  ],
+  "activity": [
+    {
+      "date": "25-10-2025",
+      "activity": "new product add",
+      "type": "info"
+    },
+    {
+      "date": "24-10-2025",
+      "activity": "delete product",
+      "type": "success"
+    },
+    {
+      "date": "23-10-2025",
+      "activity": "delete product",
+      "type": "user"
+    }
+  ]
+}
