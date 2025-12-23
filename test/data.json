@@ -1,9 +1,5 @@
-import json
-
-def defult_response():
-    
-    return {
-        "status": "success",
+{
+  "status": "success",
   "message": "user found successfully!",
   "result": {
     "data": {
@@ -540,4 +536,4 @@ def defult_response():
       ]
     }
   }
-    }
+}
